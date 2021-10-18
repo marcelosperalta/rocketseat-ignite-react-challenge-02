@@ -1,8 +1,8 @@
 # [Rocketseat Bootcamp](https://www.rocketseat.com.br/)
 
-## Ignite  
+## Ignite
 
-### Trilha ReactJS  
+### Trilha ReactJS
 
 Desafio: Componentizando a aplicação  
 
